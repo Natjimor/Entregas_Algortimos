@@ -14,4 +14,6 @@ function computeGrades (studentGrades) {
         console.log("A")
     }
 }
-computeGrades(98)
+const studentGrades= [80,70,80,30]
+computeGrades(studentGrades)
+
